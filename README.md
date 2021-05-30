@@ -29,4 +29,4 @@
 ![alt text](https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/pic7.png?raw=true)
 
 #### Name and Numbers updated to website
-![alt text](https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/pic8.png?raw=true)
+![alt text](https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/pic9.png?raw=true)
