@@ -23,10 +23,10 @@
 ![alt text](https://github.com/saikrupa82/Django-RestFrame-Work/blob/main/Pic%20of%20project/5.png?raw=true)
 
 #### POSTMAN API to post the File
-![alt text](https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/pic6.png?raw=true)
+![alt text](https://github.com/saikrupa82/Django-RestFrame-Work/blob/main/Pic%20of%20project/6.png?raw=true)
 
 #### Upload of file to website is Done
-![alt text](https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/pic7.png?raw=true)
+![alt text](https://github.com/saikrupa82/Django-RestFrame-Work/blob/main/Pic%20of%20project/7.png?raw=true)
 
 #### Name and Numbers updated to website
-![alt text](https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/pic9.png?raw=true)
+![alt text](https://github.com/saikrupa82/Django-RestFrame-Work/blob/main/Pic%20of%20project/9.png?raw=true)
